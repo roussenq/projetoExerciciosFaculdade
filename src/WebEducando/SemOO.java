@@ -8,12 +8,13 @@ package WebEducando;
  * @author David
  */
 public class SemOO {
-    
+    public static void main(Strings args[]){
+        
     double xA, xB, xC, yA, yB, yC;
     
-    sout
     
-    if {
+    
+ 
     
 }
             
